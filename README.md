@@ -21,7 +21,7 @@
 
 **最后**
 
-访问 https://visiky.github.io/resume?user={world-22}
+访问 https://visiky.github.io/resume?user=world-22
 
 参数说明:
 
